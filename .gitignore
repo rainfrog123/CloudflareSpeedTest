@@ -2,3 +2,13 @@ dist
 Releases
 *.exe
 *.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Output files
+result.json
